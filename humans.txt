@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+mina mahrous    mina@mail.com		@minat
 
 # THANKS
 
