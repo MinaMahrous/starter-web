@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 Mina
 ## How to contrbuite
 MIna Mina
+
+2020 Git.Training
